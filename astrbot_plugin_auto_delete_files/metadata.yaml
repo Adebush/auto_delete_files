@@ -1,0 +1,6 @@
+name: auto_delete_files
+display_name: 群文件自动清理
+desc: 群文件自动清理插件，支持每月1号00:00定时清理、手动命令与自然语言触发，删除报告以合并转发形式发送
+version: v6.3.0
+author: bush
+repo: https://github.com/Adebush/auto_delete_files
